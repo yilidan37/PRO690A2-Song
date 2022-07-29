@@ -2,7 +2,7 @@ pipeline {
 
     agent {
         node {
-            label 'Pro690A2'
+            label 'main'
         }
     }
 
